@@ -1,1 +1,1 @@
-# Indian food analysis, file 1
+# Indian cusine analysis, file 1
